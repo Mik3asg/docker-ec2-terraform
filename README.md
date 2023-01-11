@@ -2,7 +2,7 @@
 
 ## A fully functional example project showing how to use Terraform to build, run and deploy a Docker Container with NGIX on AWS EC2
 
-This project is an example that was built along with an online course showing how to automate with Terraform (as Infrastrcture as Code) the deployment of a NGIC server in a Docker Container on AWS EC2 instance. Every part of this project is sample code which shows how to do the following steps:
+This project is an example that was built along with an online course showing how to automate with Terraform (as Infrastructure as Code) the deployment of a NGIC server in a Docker Container on AWS EC2 instance. Every part of this project is sample code which shows how to do the following steps:
 
 * 1- Create an AWS VPC (Virtual Private Cloud) and Subnets
 * 2- Create Route Table and Internet Gateway
